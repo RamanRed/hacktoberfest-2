@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/RamanRed/blackjack-game.git
+git clone https://github.com/RamanRed/hacktoberfest-2.git
 Navigate to the project directory:
 
 bash
