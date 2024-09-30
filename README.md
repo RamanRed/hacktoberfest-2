@@ -85,4 +85,3 @@ cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
 ---
 
-That's the reformatted README file! Let me know if you'd like any further adjustments.
