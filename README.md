@@ -65,19 +65,14 @@ cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
    git clone https://github.com/RamanRed/hacktoberfest-2.git
    ```
 
-2. **Navigate to the project directory**:
 
-   ```bash
-   cd blackjack-game
-   ```
-
-3. **Install the required libraries** (if needed):
+2. **Install the required libraries** (if needed):
 
    ```bash
    pip install art
    ```
 
-4. **Run the game**:
+3. **Run the game**:
 
    ```bash
    python blackjack_game.py
